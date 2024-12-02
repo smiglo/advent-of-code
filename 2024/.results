@@ -1,5 +1,9 @@
 #/usr/bin/env bash
 
 declare -A expectedMap=(
+  ["d01-a-t"]=11
+  ["d01-a-f"]=1651298
+  ["d01-b-t"]=31
+  ["d01-b-f"]=21306195
 )
 
